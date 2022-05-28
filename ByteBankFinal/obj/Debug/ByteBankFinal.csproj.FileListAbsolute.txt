@@ -1,0 +1,8 @@
+C:\Users\hende\source\repos\ByteBankFinal\ByteBankFinal\bin\Debug\ByteBankFinal.exe.config
+C:\Users\hende\source\repos\ByteBankFinal\ByteBankFinal\bin\Debug\ByteBankFinal.exe
+C:\Users\hende\source\repos\ByteBankFinal\ByteBankFinal\bin\Debug\ByteBankFinal.pdb
+C:\Users\hende\source\repos\ByteBankFinal\ByteBankFinal\obj\Debug\ByteBankFinal.csproj.AssemblyReference.cache
+C:\Users\hende\source\repos\ByteBankFinal\ByteBankFinal\obj\Debug\ByteBankFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\hende\source\repos\ByteBankFinal\ByteBankFinal\obj\Debug\ByteBankFinal.csproj.CoreCompileInputs.cache
+C:\Users\hende\source\repos\ByteBankFinal\ByteBankFinal\obj\Debug\ByteBankFinal.exe
+C:\Users\hende\source\repos\ByteBankFinal\ByteBankFinal\obj\Debug\ByteBankFinal.pdb
